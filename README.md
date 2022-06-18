@@ -1,4 +1,4 @@
-# Website-for-everybody
+# Website for everybody!
 
 ## Concepts Applied 🧐:
 - [x] HTML
