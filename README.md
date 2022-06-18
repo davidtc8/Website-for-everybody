@@ -1,5 +1,5 @@
 # Website for everybody!
-One of the most common tasks in web development is *refactoring*, I used a template which was messy and refactored the code to make it more simplistic. 
+One of the most common tasks in web development is *refactoring*, I used a template which was messy and refactored the code to make it more simplistic. Ths website is intended for Desktop view only.
 
 ## Folder Structure 🗺️:
 Inside the "Develop" folder you'll find:
