@@ -1,5 +1,12 @@
 # Website for everybody!
 
+## Folder Structured:
+Inside the "Develop" folder you'll find:
+- Assets 
+-- Images used for the project
+-- CSS Which contains the css file used to styling.
+- index.html which you can run to open the website.
+
 ## Concepts Applied 🧐:
 - [x] HTML 🦴
 
