@@ -17,7 +17,6 @@ Inside the "Develop" folder you'll find:
 
 ## Web Page Link 😏
 Pending to put the link
-![image](image1.gif)
 
 ## Screenshot:
 ![image](./Develop/assets/images/website-for-everybody.png)
