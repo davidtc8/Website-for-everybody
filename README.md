@@ -1,6 +1,6 @@
 # Website for everybody!
 
-## Folder Structure:
+## Folder Structure 🗺️:
 Inside the "Develop" folder you'll find:
 - Assets 
     - Images used for the project
