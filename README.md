@@ -1,4 +1,5 @@
 # Website for everybody!
+One of the most common tasks in web development is *refactoring*, I used a template which was messy and refactored the code to make it more simplistic. 
 
 ## Folder Structure 🗺️:
 Inside the "Develop" folder you'll find:
@@ -17,3 +18,6 @@ Inside the "Develop" folder you'll find:
 ## Web Page Link 😏
 Pending to put the link
 ![image](image1.gif)
+
+## Screenshot:
+![image](./Develop/assets/images/website-for-everybody.png)
