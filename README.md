@@ -1,13 +1,11 @@
 # Website for everybody!
 
 ## Concepts Applied 🧐:
-- [x] HTML
+- [x] HTML 🦴
 
-- [x] CSS 🤓
+- [x] CSS 🎨
 
-- [x] CSS Variables
-
-- [x] Refactoring
+- [x] Refactoring 🤔
 
 ## Web Page Link 😏
 Pending to put the link
