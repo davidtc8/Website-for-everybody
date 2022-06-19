@@ -83,7 +83,7 @@ p {
     max-height: 200px;
 }
 
-/*Joining these 3 classes, as they vale the same values*/
+/*Joining these 3 classes, as they have the same values*/
 .left-content h2 {
     margin-bottom: 20px;
     font-size: 36px;
