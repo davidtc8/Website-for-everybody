@@ -19,4 +19,4 @@ Inside the "Develop" folder you'll find:
 <a href="https://davidtc8.github.io/Website-for-everybody/" target="_blank">Webpage!</a>
 
 ## Screenshot:
-![image](./Develop/assets/images/website-for-everybody.png)
+![image](./assets/images/website-for-everybody.png)
